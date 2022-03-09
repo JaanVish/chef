@@ -12,3 +12,125 @@
           vertical-align: middle;
 }
 
+section.banner-bottoms {
+  width: 100%;
+  float: left;
+  position: relative;
+  padding: 50px 50px;
+}
+
+section.banner-bottoms{padding: 50px 0px 0 0;}
+
+.title h6 {
+
+  margin: 0;
+
+}
+
+.title h2 {
+
+  color: #0F2453;
+
+  font-weight: 800;
+
+  font-size: 30px;
+
+}
+.title h1 {
+
+  color: #0F2453;
+
+  font-weight: 800;
+
+  font-size: 30px;
+
+}
+.title p {
+
+  font-size: 15px;
+
+  color: #747474;
+
+  padding: 30px 0;
+
+}
+
+.button-design {
+  display: inline-block;
+  color: #ffffff;
+  border-radius: 25px;
+  background: url() 94% 45% no-repeat, linear-gradient(to right, #e11937 0%, #ff8300 100%);
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 2.444;
+  padding-right: 22px;
+  padding-left: 22px;
+  letter-spacing: -0.025em;
+  border: inherit !important;
+  position: relative;
+  padding-top: 8px;
+  margin-top: 22px;
+  padding-bottom: 10px;
+}
+
+.about-box {
+  float: left;
+  width: 25%;
+  position: relative;
+}
+
+.v-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  -ms-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -ms-transform-origin: 90px bottom;
+  -moz-transform-origin: 90px bottom;
+  -webkit-transform-origin: 90px bottom;
+  transform-origin: 90px bottom;
+  width: 350px;
+  text-align: center;
+  height: 40px;
+  position: absolute;
+  left: -50px;
+  top: 220px;
+  letter-spacing: 2px;
+  line-height: 40px;
+}
+
+.col-left {
+  width: 335px;
+  float: right;
+}
+
+.color1 {
+
+  background: #003976;
+
+}
+
+.color2 {
+
+  background: #007476;
+
+}
+
+.color3 {
+
+  background: #005387;
+
+}
+
+.color4 {
+
+  background: #009278;
+
+}
+
+.v-title a {
+    color: #fff;
+}
