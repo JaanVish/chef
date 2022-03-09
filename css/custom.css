@@ -134,3 +134,53 @@ section.banner-bottoms{padding: 50px 0px 0 0;}
 .v-title a {
     color: #fff;
 }
+
+.response, .color-main{
+  color: #0f2453 !important;
+}
+
+section.chef-icon h3 {
+    text-align: center;
+    font-size: 15px;
+}
+
+
+section.chef-icon img {
+
+    margin-left: 49px;
+
+}
+
+section.chef-icon img {
+
+    width: 45%;
+
+    height: auto;
+
+    text-align: center;
+
+}
+
+section.chef-icon img {
+
+    margin-left: 71px;
+
+}
+
+section.chef-icon {
+
+  margin-bottom: 45px;
+
+}
+
+section.chef-icon img {
+  margin-left: 34px;    margin-top: 11px;
+}
+
+section.chef-icon h3 {
+
+  text-align: center;
+
+  font-size: 9px;
+
+}
