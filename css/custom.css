@@ -245,3 +245,7 @@ section.chef-icon h3 {
 .brands_next {
   right: 40px
 }
+
+.top-bar{
+  margin: -5px 0px -15px 0px;
+}
