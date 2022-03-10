@@ -415,3 +415,8 @@ h2{
 .fa .fa-angle-right{
 color: #000;
 }
+
+.affliatelogo img {
+  border: 1px solid #222;
+  margin-top: 25px;
+}
