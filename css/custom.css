@@ -420,3 +420,27 @@ color: #000;
   border: 1px solid #222;
   margin-top: 25px;
 }
+
+section.video {
+  width: 100%;
+  float: left;
+  position: relative;
+  background: #0F2453;
+  padding: 70px 0;
+}
+
+.title-w3-agileits {
+  font-size: 2em;
+  color: #FFF;
+  font-weight: 300;
+  letter-spacing: 0px;
+  margin-bottom: 1em;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+.videocode{
+  display: inline-block;
+}
