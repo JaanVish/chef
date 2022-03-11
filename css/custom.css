@@ -444,3 +444,9 @@ section.video {
 .videocode{
   display: inline-block;
 }
+
+.professional i {
+  color: #ff8300;
+  font-size: 18px;
+  margin-right: 6px;
+}
