@@ -64,15 +64,15 @@
 
 				<div class="item-content bordered">
 
-					<h4>18 Months Advance Diploma Professional Programmes Course</h4>
+					<h4>12 Months Diploma Professional Culinary Programme Course (Level 2)</h4>
 
-					<p>This 18 months Level 3 Advanced Diploma in Food Preparation and Cookery Supervision (8065-04) Course accredited by City and Guilds, London(U.K) is ideal for anyone Looking for a successful career in food preparation and cookery, from new starters to experienced professional looking to specialize in Culinary or move into supervisor role. A combination of theoretical and practical classes, this extensive course gives a thorough insight for learners about the various techniques prevailing in the industry.
+					<p>This 12 months Level 2 Diploma in Food Preparation and Cooking (8065-02) Course accredited by City and Guilds, London(U.K) is ideal for anyone Looking for a successful career in food preparation and cookery, from new starters to experienced professional looking to specialize in Culinary or move into supervisor role. A combination of theoretical and practical classes, this extensive course gives a thorough insight for learners about the various techniques prevailing in the industry. Students who have completed their Level 2 course can further apply to upgrade for a Level 3 course with 6 months duration only.
 					</p>
 
 					<h4>How the Course is Structured?</h4>
 
 					<p>
-						This 18 Months Level 3 course program has all the elements to transform young amateurs into Culinary professionals. For 12 months students go through extensive practical training under the guidance of IBCA professors who give them a thorough learning and best industry practices. Grinding the next generation of students into basic fundamentals, techniques and daily activities that are must for their learning curve.
+						This 12 Months Level 2 course program has all the elements to transform young amateurs into Culinary professionals. For 12 months students go through extensive practical training under the guidance of IBCA professors who give them a thorough learning and best industry practices. Grinding the next generation of students into basic fundamentals, techniques and daily activities that are must for their learning curve.
 					</p>
 					<p>
 						For the next 6 months, students are on live industrial training in the top most five-star hotels and restaurant for experiencing the daily work schedules for maintaining as a professional chef. After which their internal assessment is carried out with examinations later along with there are opportunities to get placements in the top most hotels and restaurant chains.
@@ -130,11 +130,11 @@
 
 					<div class="professional">
 						<h3 class="heading1">Course Accreditation:</h3>
-						<p style="text-align:left;">This Diploma is accredited by City &amp; Guilds, London(U.K.) which upon completion can pursue a career in this artistic field or take a further initiative in International degree and Courses.</p>
+						<p style="text-align:left;">This Diploma is accredited by City &amp; Guilds, London(U.K) which upon completion can pursue a career in this artistic field or take a further initiative in International degree and Courses.</p>
 						<h3 class="heading1">Who Can Enroll?</h3>
 						<ul>
 							<li>Minimum 16 years of Age</li>
-							<li>Students must be 10th Passed from any certification board.</li>
+							<li>Students must be 10th Passed from any certification board. </li>
 						</ul>
 						<h3 class="heading1">Sessions:</h3>
 						<p style="text-align:left;">Winter Session: February</p>
@@ -142,10 +142,9 @@
 						<h3 class="heading1">Timings:</h3>
 						<p style="text-align:left;">Morning Batch: 09:30 am to 01:30 pm</p>
 						<p style="text-align:left;">Evening Batch: 02:00 pm to 06:00 pm</p>
-
 						<h3 class="heading1">Weekly Details:</h3>
 						<ul>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 1</strong>: Food safety hygienic and Theory, measures, Knife skill, cutting and conversions.</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 1</strong>: Food safety hygienic and Theory, measures, Knife skill, cutting and conversions</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 2</strong>: Basic knowledge and introduction of ingredients.</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 3&amp;4</strong>: Practical Cooking techniques and cold preparations</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 5&amp;6</strong>: Basic Soups stocks and Basic sauces</li>
@@ -155,30 +154,10 @@
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 13&amp;14</strong>: Rice ,grain, farinaceous and eggs preparations</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 15&amp;16</strong>: Buffet and staff meal ,Healthier food and special diets</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 17&amp;18</strong>: Indian Cuisine and International Cuisine</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 19&amp;20</strong>: Practical culinary techniques, French pastries</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 19&amp;20</strong>: Practical Culinary techniques, French pastries</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 21&amp;22</strong>: Specialty cakes, hot ,cold pudding and plated desserts</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 23&amp;24</strong>: Interpersonal &amp; Communication Skills Work effectively as a cook Provide service to customers Show social and cultural sensitivity Manage conflict Communicate on the telephone Coach others in job skills Exam-Theory and Practical (Mandatory for Certification) Arranged by IBCA –New Delhi</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 25</strong>: Supervisory skills in the hospitality industry</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 26</strong>: Developing productive working relationships with colleagues</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week-27</strong>: Contributing to the control of resources</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 28</strong>: Contributing to the development of recipes and menus.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 29</strong>: Maintain the health, hygiene, safety and security of the working environment</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 30</strong>: The principles of food safety supervision for catering</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 31&amp;32</strong>: Practical gastronomy, Menu planning and costing</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 33&amp;34</strong>: Canapés and fusion Cuisine.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 35&amp;36</strong>: Italian and French Cuisine</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 37&amp;38</strong>: Complex Sauces Game and lamb preparations</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 39&amp;40</strong>: Produce hot, cold and frozen desserts,.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 41&amp;42</strong>: Produce biscuits, cakes and sponges</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 43&amp;44</strong>: Produce petit fours ice cream and sorbets</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 45&amp;46</strong>: Vegetable and chocolate sculpture, buffet presentation and plating.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 47&amp;48</strong>: Final Assessment preparation for food trial and Job placement.</li>
-
-
-
-
-
-
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 25 to 52</strong>: Industrial Training</li>
 						</ul>
 					</div>
 
@@ -186,35 +165,19 @@
 			</main>
 			<!-- .col-* -->
 			<aside class="col-lg-5 col-xl-4">
-				<!-- <div class="bg-maincolor2 widget-search p-30 mb-60">
-					<div class="widget widget_search">
-						<h5>Search On Website</h5>
-						<p>Find more exciting news and offers</p>
-						<form role="search" method="get" class="search-form" action="/">
-							<label for="search-form-widget">
-								<span class="screen-reader-text">Search for:</span>
-							</label>
-							<input type="search" id="search-form-widget" class="search-field form-control" placeholder="Type Keyword Here..." value="" name="search">
-							<button type="submit" class="search-submit">
-								<span class="screen-reader-text">Type Keyword Here...</span>
-							</button>
-						</form>
-					</div>
-				</div> -->
-
 				<div class="widget widget_categories">
 
 					<div class="professional myprofession">
 						<p style="text-align:left;"> </p>
 						<h3 class="widget-title">Fees Structure:</h3>
-						<ul>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Booking Amount-Rs.20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Tuition Fees-Rs.4,20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination Fees-Rs.80,000(Level-2 &amp; level-3)</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Total-Rs.5,20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>GST(18%)-Rs.93,600</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Grand Total-Rs.6,13,600</li>
-						</ul>
+						<ul> 
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Booking Amount-Rs.20,000</li>
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Tuition Fees-Rs.1,10,000</li>
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination Fee-Rs.40,000 (Level 2)</li>
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Total-Rs.1,70,000</li>
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>GST(18%)-Rs.30,600</li>
+              <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Grand Total-Rs.2,00,600</li>
+            </ul>
 
 						<div class="pt-20 pb-20">
 							<a href="course_pdf/18_months_culinary_course.pdf" target="_blank" tabindex="-1" download-""="">
@@ -222,30 +185,6 @@
 							</a>
 						</div>
 					</div>
-
-					<!-- <h3 class="widget-title">Our Programs</h3>
-
-					<ul>
-						<li class="with-icon">
-							<i class="color-main fa fa-cogs" aria-hidden="true"></i>
-							<a href="blog-right.html">All Months</a>/112
-						</li>
-						<li>
-							<a href="blog-right.html">July 2018</a>/21
-						</li>
-						<li>
-							<a href="blog-right.html">June 2018</a>/39
-						</li>
-						<li>
-							<a href="blog-right.html">May 2018</a>/7
-						</li>
-						<li>
-							<a href="blog-right.html">April 2018</a>/16
-						</li>
-						<li>
-							<a href="blog-right.html">March 2018</a>/25
-						</li>
-					</ul> -->
 				</div>
 			</aside>
 

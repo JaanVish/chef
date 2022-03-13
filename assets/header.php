@@ -23,7 +23,7 @@
 	<link rel="stylesheet" href="css/font-awesome.css">
 	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-	
+
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
 		<script src="js/vendor/respond.min.js"></script>
@@ -46,8 +46,7 @@
 		<div class="widget widget_search">
 			<form method="get" class="searchform search-form" action="/">
 				<div class="form-group">
-					<input type="text" value="" name="search" class="form-control" placeholder="Search keyword"
-						id="modal-search-input">
+					<input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
 				</div>
 				<button type="submit" class="btn">Search</button>
 			</form>
@@ -130,15 +129,88 @@
 								<nav class="top-nav">
 									<ul class="nav sf-menu">
 										<li>
-											<a href="#">Home</a>
+											<a href="index.php">Home</a>
 										</li>
 
 										<li>
-											<a href="#about">About Us</a>
+											<a href="about.php">About Us</a>
 										</li>
 
 										<li>
 											<a href="#">Our Courses</a>
+											<ul style="margin-top: 5px;">
+												<li>
+													<a href="index.html">Culinary</a>
+													<ul style="margin-top: 5px; left: 100%;">
+														<li>
+															<a href="18-months-culinary-certificate-program.php">18 Months Advance Course (Level 3)</a>
+														</li>
+														<li>
+															<a href="12-months-culinary-certificate-program.php">12 Months Diploma Course (Level 2)</a>
+														</li>
+														<li>
+															<a href="12-months-certification-course-culinary.php">12 Months Certificate Course (Level 1)</a>
+														</li>
+														<li><a href="3-months-culinary-certificate-program.php">3 Months Basic</a></li>
+													</ul>
+												</li>
+												<li>
+													<a href="#">Pastry</a>
+													<ul style="margin-top: 5px; left: 100%;">
+														<li><a href="18-months-certificate-program.php">18 Months Course (Level 3)</a></li>
+														<li><a href="professional-programmes.php">12 Months Course (Level 2)</a></li>
+														<li><a href="6-months-pastry-advanced-course.php">6 Months Course (Level 3)</a></li>
+														<li><a href="6-months-certificate-program.php">6 Months Course (Level 1)</a></li>
+														<li><a href="3-months-certificate-program.php">3 Months Basic</a></li>
+
+													</ul>
+												</li>
+												<li>
+													<a href="#">Hobby Chef</a>
+													<ul style="left: 100%;">
+														<li><a href="culinary-hobby-chef.php">Culinary Hobby Chef</a></li>
+														<li><a href="pastry-hobby-chef.php">Pastry Hobby Chef</a></li>
+													</ul>
+												</li>
+											</ul>
+
+											<!-- <div class="mega-menu" style="margin-top: 5px; left: -837.938px; display: none;">
+												<ul class="mega-menu-row">
+													<li class="mega-menu-col">
+														<a href="#">Culinary</a>
+														<ul style="left: 100%;">
+															<li>
+																<a href="18-months-culinary-certificate-program.php">18 Months Advance Course (Level 3)</a>
+															</li>
+															<li>
+																<a href="12-months-culinary-certificate-program.php">12 Months Diploma Course (Level 2)</a>
+															</li>
+															<li>
+																<a href="12-months-certification-course-culinary.php">12 Months Certificate Course (Level 1)</a>
+															</li>
+															<li><a href="3-months-culinary-certificate-program.php">3 Months Basic</a></li>
+														</ul>
+													</li>
+													<li class="mega-menu-col">
+														<a href="#">Pastry</a>
+														<ul style="left: 100%;">
+															<li><a href="18-months-certificate-program.php">18 Months Course (Level 3)</a></li>
+															<li><a href="professional-programmes.php">12 Months Course (Level 2)</a></li>
+															<li><a href="6-months-pastry-advanced-course.php">6 Months Course (Level 3)</a></li>
+															<li><a href="6-months-certificate-program.php">6 Months Course (Level 1)</a></li>
+															<li><a href="3-months-certificate-program.php">3 Months Basic</a></li>
+
+														</ul>
+													</li>
+													<li class="mega-menu-col">
+														<a href="#">Hobby Chef</a>
+														<ul style="left: 100%;">
+															<li><a href="culinary-hobby-chef.php">Culinary Hobby Chef</a></li>
+															<li><a href="pastry-hobby-chef.php">Pastry Hobby Chef</a></li>
+														</ul>
+													</li>
+												</ul>
+											</div> -->
 										</li>
 
 										<li>

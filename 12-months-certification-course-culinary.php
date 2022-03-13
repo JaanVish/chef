@@ -64,15 +64,15 @@
 
 				<div class="item-content bordered">
 
-					<h4>18 Months Advance Diploma Professional Programmes Course</h4>
+					<h4>12 Months Certification Course In Culinary (Level 1)</h4>
 
-					<p>This 18 months Level 3 Advanced Diploma in Food Preparation and Cookery Supervision (8065-04) Course accredited by City and Guilds, London(U.K) is ideal for anyone Looking for a successful career in food preparation and cookery, from new starters to experienced professional looking to specialize in Culinary or move into supervisor role. A combination of theoretical and practical classes, this extensive course gives a thorough insight for learners about the various techniques prevailing in the industry.
+					<p>This 12 months Level 1 and Certificate in Food Preparation and Cookery Course accredited by THSC and NSDC India is ideal for anyone Looking for a successful career in food preparation and cookery, from new starters to experienced professionals looking to specialize in Culinary or move into supervisor roles. A combination of theoretical and practical classes, this extensive course gives a thorough insight for learners about the various techniques prevailing in the industry.
 					</p>
 
 					<h4>How the Course is Structured?</h4>
 
 					<p>
-						This 18 Months Level 3 course program has all the elements to transform young amateurs into Culinary professionals. For 12 months students go through extensive practical training under the guidance of IBCA professors who give them a thorough learning and best industry practices. Grinding the next generation of students into basic fundamentals, techniques and daily activities that are must for their learning curve.
+						Accredited THSC Commie Chef Level 1 course program has all the elements to transform young amateurs into Culinary professionals. For 6 months students go through extensive practical training under the guidance of IBCA professors who give them a thorough learning and best industry practices. Grinding the next generation of students into basic fundamentals, techniques and daily activities that are must for their learning curve.
 					</p>
 					<p>
 						For the next 6 months, students are on live industrial training in the top most five-star hotels and restaurant for experiencing the daily work schedules for maintaining as a professional chef. After which their internal assessment is carried out with examinations later along with there are opportunities to get placements in the top most hotels and restaurant chains.
@@ -116,13 +116,11 @@
 							<ul style="list-style-type:none;">
 								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Chef uniform</li>
 								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Kitchen tools kit</li>
-								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>City and Guilds Registration fee</li>
-								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination fee(Level 2 and Level 3)</li>
 								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Full course study and raw material </li>
+								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination Fees</li>
 
 								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Every day tasting session/take home your food</li>
-								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Internship in 5 Star hotels/Fine Dining Restaurant</li>
-								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>100% Assistance in Placement after Course Completion</li>
+								<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>THSC Exam Registration Fees</li>
 							</ul>
 						</div>
 					</div>
@@ -130,23 +128,21 @@
 
 					<div class="professional">
 						<h3 class="heading1">Course Accreditation:</h3>
-						<p style="text-align:left;">This Diploma is accredited by City &amp; Guilds, London(U.K.) which upon completion can pursue a career in this artistic field or take a further initiative in International degree and Courses.</p>
+						<p style="text-align:left;">This Diploma is accredited by THSC India.</p>
 						<h3 class="heading1">Who Can Enroll?</h3>
 						<ul>
 							<li>Minimum 16 years of Age</li>
-							<li>Students must be 10th Passed from any certification board.</li>
+							<li>Students must be 12th Passed from any certification board</li>
 						</ul>
 						<h3 class="heading1">Sessions:</h3>
 						<p style="text-align:left;">Winter Session: February</p>
-						<p style="text-align:left;">Summer Session: July</p>
+						<p style="text-align:left;">Summer Session: July </p>
 						<h3 class="heading1">Timings:</h3>
-						<p style="text-align:left;">Morning Batch: 09:30 am to 01:30 pm</p>
-						<p style="text-align:left;">Evening Batch: 02:00 pm to 06:00 pm</p>
-
+						<p style="text-align:left;">Mon-Sat: 02:00 pm to 06:00 pm</p>
 						<h3 class="heading1">Weekly Details:</h3>
 						<ul>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 1</strong>: Food safety hygienic and Theory, measures, Knife skill, cutting and conversions.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 2</strong>: Basic knowledge and introduction of ingredients.</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 1</strong>: Food safety hygienic and Theory, measures, Knife skill, cutting and conversions</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 2</strong>: Basic knowledge and introduction of ingredients. </li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 3&amp;4</strong>: Practical Cooking techniques and cold preparations</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 5&amp;6</strong>: Basic Soups stocks and Basic sauces</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 7&amp;8</strong>: Vegetable, fruits ,pulses and potatoes preparations</li>
@@ -158,27 +154,7 @@
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 19&amp;20</strong>: Practical culinary techniques, French pastries</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 21&amp;22</strong>: Specialty cakes, hot ,cold pudding and plated desserts</li>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 23&amp;24</strong>: Interpersonal &amp; Communication Skills Work effectively as a cook Provide service to customers Show social and cultural sensitivity Manage conflict Communicate on the telephone Coach others in job skills Exam-Theory and Practical (Mandatory for Certification) Arranged by IBCA –New Delhi</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 25</strong>: Supervisory skills in the hospitality industry</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 26</strong>: Developing productive working relationships with colleagues</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week-27</strong>: Contributing to the control of resources</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 28</strong>: Contributing to the development of recipes and menus.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 29</strong>: Maintain the health, hygiene, safety and security of the working environment</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 30</strong>: The principles of food safety supervision for catering</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 31&amp;32</strong>: Practical gastronomy, Menu planning and costing</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 33&amp;34</strong>: Canapés and fusion Cuisine.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 35&amp;36</strong>: Italian and French Cuisine</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 37&amp;38</strong>: Complex Sauces Game and lamb preparations</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 39&amp;40</strong>: Produce hot, cold and frozen desserts,.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 41&amp;42</strong>: Produce biscuits, cakes and sponges</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 43&amp;44</strong>: Produce petit fours ice cream and sorbets</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 45&amp;46</strong>: Vegetable and chocolate sculpture, buffet presentation and plating.</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 47&amp;48</strong>: Final Assessment preparation for food trial and Job placement.</li>
-
-
-
-
-
-
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><strong>Week 25 to 52</strong>: Industrial Training (Optional)</li>
 						</ul>
 					</div>
 
@@ -209,11 +185,10 @@
 						<h3 class="widget-title">Fees Structure:</h3>
 						<ul>
 							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Booking Amount-Rs.20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Tuition Fees-Rs.4,20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination Fees-Rs.80,000(Level-2 &amp; level-3)</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Total-Rs.5,20,000</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>GST(18%)-Rs.93,600</li>
-							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Grand Total-Rs.6,13,600</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Tuition Fees-Rs.50,000</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Examination Fee-Rs.15,000</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>GST(18%)-Rs.15,300</li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i>Grand Total-Rs.1,00,300</li>
 						</ul>
 
 						<div class="pt-20 pb-20">
